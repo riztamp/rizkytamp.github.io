@@ -1,0 +1,22 @@
+body{
+    background-image: url(laut1.png);
+    width: 100%;
+}
+.contact{
+    border-style: inset;
+    border: 10px solid blue;
+    border-radius: 5px;
+    width: 50%;
+    position: absolute;
+    top: 150px;
+    left: 370px;
+    background-color: aqua;
+}
+h2{
+    text-align: center ;
+    border-bottom: 5px solid black;
+    width: 30%;
+    margin-left: 240px;
+    background-color:darkgoldenrod;
+    
+}

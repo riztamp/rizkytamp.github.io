@@ -1,0 +1,29 @@
+body{
+    background-image: url(freesea.jpg);
+}
+.biodata{
+   color: aqua;
+   border: 10px blue outset;
+   background-color: rgb(10, 3, 3);
+   font-size: 20px;
+   position: absolute;
+   top: 150px;
+   width: 800px;
+   border-radius: 50px;
+   right: 200px;
+}
+h1{
+    text-align: center;
+    color: black;
+    border-bottom: 5px solid rgb(0, 183, 255);
+    background-color: lightgrey;
+    
+}
+.mk{
+    position: absolute;
+    right: 30px;
+    top: 40px;
+    height: 250px;
+    outline-style: double;
+    border-radius: 500px;
+}
