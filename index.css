@@ -1,0 +1,244 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Navbar */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 15px;
+    margin: 0px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.logonav {
+    width: 5%;
+    padding: 0%;
+    position: relative;
+    right: -100px;
+}
+
+.logo{
+    padding-left: -320px;
+}
+
+.lisan {
+    position: relative;
+    left: -450px;
+}
+.navbar {
+    font-weight: 500;
+}
+
+.navbar:hover {
+    background-color: #13203a;
+    color: #ffffff;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.pic1 div {
+    width: 100%;
+}
+
+.caption {
+    position:absolute;
+    left: 400px;
+    bottom: 220px;
+    color: #ffffff;
+    font-size: 70px;
+    line-height: 20%;
+}
+
+.column{
+    float: left;
+    width: 33.33%;
+   
+    
+}
+
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.seaworld {
+    text-align: center;
+}
+
+.seaworld h1{
+    font-size: 50px;
+}
+
+.teks {
+    color: #003c5f;
+    text-decoration: none;
+}
+
+.column1 {
+    width: 33.33%;
+    float: left;
+    margin-left: 400px;
+}
+
+.column2 {
+    width: 33.33%;
+    float: left;
+    margin-left: -280px;
+}
+
+.column3 {
+    width: 33.33%;
+    float: left;
+    margin-left: -280px;
+}
+
+.foto {
+    width: 60%;
+    border-radius: 10px;
+}
+.baris {
+    float: left;
+    padding: 0px;
+    margin-left: 380px;
+
+}
+
+.foto2 {
+    width: 125%;
+    border-radius: 10px;
+}
+
+.baris1 {
+    float: left;
+    margin-left: 470px;
+}
+
+.baris2 {
+    float: left;
+    margin-left: 100px;
+    margin-top: -15px;
+}
+
+.baris3 {
+    float: left;
+    margin-top: 150px;
+    margin-left: 400px;
+}
+
+.baris4 {
+    float: left;
+    margin-top: 100px;
+    margin-left: 170px;
+}
+
+.baris5 {
+    float: left;
+    margin-top: 70px;
+    position: relative;
+    left: -525px;
+}
+
+.baris6 {
+    float: left;
+    margin-top: 90px;
+    position:relative;
+    left: -425px;
+}
+
+.konten4 {
+    margin-left: 445px;
+}
+
+.tombol {
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin-left: 60px;
+}
+
+.linktombol:visited .linktombol:active {
+    background-color: #ffffff;
+    border-radius: 5px;
+    color: black;
+    text-decoration: none;
+}
+
+.linktombol {
+    color: black;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: #13203a;
+    color: #ffffff;
+}
+
+.rowfooter {
+    float: left;
+}
+
+
+.satu {
+    float: left;
+    margin-left: 450px;
+}
+
+.dua {
+    float: left;
+    margin-left: 90px;
+}
+
+.tiga {
+    float: left;
+    margin-left: 90px;
+}
+
+.empat {
+    float: left;
+    margin-left: 100px;
+}
+
+.lima {
+    float: left;
+    margin-left: 120px;
+} 
+
+.enam {
+    margin-left: 450px;
+}
+
+.tujuh {
+    margin-left: 450px;
+}
+ 
+
+
+
+
+
+
+

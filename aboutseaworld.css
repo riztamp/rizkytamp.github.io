@@ -1,0 +1,23 @@
+body{
+    background-image: url(SEA.jpg);
+    width: 100%;
+}
+h3{
+    text-align: center;
+    text-shadow:  4px 3px 5px cyan;
+    font-size: 35px;
+}
+.pin{
+    font-size: 24px;
+    font-weight: 100;
+    border-style: dashed;
+    border-radius: 25px;
+    border-width: 5px;
+    margin-left: 5px;
+    padding-left: 10px;
+    width: 70%;
+    
+}
+.lisan{
+    background-color: rgba(68, 248, 255, 0.43);
+}
